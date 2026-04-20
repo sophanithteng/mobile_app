@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">assingment</string>
+    <string name="app_title">Khmer Food Express</string>
+    <string name="btn_details">Details</string>
+    <string name="cd_back">Back</string>
+    <string name="stat_stars">4.5 Stars</string>
+    <string name="stat_weight">250g</string>
+    <string name="stat_calories">350 Cal</string>
+    <string name="label_ingredients">Ingredients</string>
+    <string name="label_details">Details</string>
+    <string name="dummy_description">A delicious Cambodian seafood dish. It is a traditional and highly flavorable dish using local produce from the Kep province.</string>
+    <string name="ingredient_fish">Fish</string>
+    <string name="ingredient_herbs">Herbs</string>
+    <string name="ingredient_spices">Spices</string>
+    <string name="cd_cart">Cart</string>
+    <string name="cd_location">Location</string>
+    <string name="btn_add_order">Add Order</string>
+    <string name="price_format">$%.2f</string>
+    <string name="label_minus">—</string>
+    <string name="label_plus">+</string>
+</resources>
